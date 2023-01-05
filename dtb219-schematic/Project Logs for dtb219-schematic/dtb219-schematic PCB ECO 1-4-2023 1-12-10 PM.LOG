@@ -1,0 +1,241 @@
+Added Component: Designator=D1(LTST-C19X)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "160-1446-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LTST-C19X)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "160-1446-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LTST-C19X)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "160-1446-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D4(LTST-C19X)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "160-1446-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D5(LTST-C19X)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "160-1446-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D6(LTST-C19X)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "160-1446-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D7(LTST-C19X)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "160-1446-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D8(LTST-C19X)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "160-1446-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D9(LTST-C19X)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "LTST-C191KGKT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Green LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "160-1446-2-ND"; VariantName = "[No Variations]"
+Added Component: Designator=J1(1844223)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "1844223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "277-2415-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltServer PN"; Value = "CON-00009"; VariantName = "[No Variations]"
+Added Component: Designator=J2(1844223)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "1844223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "277-2415-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltServer PN"; Value = "CON-00009"; VariantName = "[No Variations]"
+Added Component: Designator=J3(1844223)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "1844223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "277-2415-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltServer PN"; Value = "CON-00009"; VariantName = "[No Variations]"
+Added Component: Designator=J4(1844223)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "1844223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "277-2415-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltServer PN"; Value = "CON-00009"; VariantName = "[No Variations]"
+Added Component: Designator=J5(1844223)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "1844223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "277-2415-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltServer PN"; Value = "CON-00009"; VariantName = "[No Variations]"
+Added Component: Designator=J6(1844223)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "1844223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "277-2415-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltServer PN"; Value = "CON-00009"; VariantName = "[No Variations]"
+Added Component: Designator=J7(1844223)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "1844223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "277-2415-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltServer PN"; Value = "CON-00009"; VariantName = "[No Variations]"
+Added Component: Designator=J8(1844223)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "1844223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "277-2415-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltServer PN"; Value = "CON-00009"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 08B0-1D1T-06-F
+Added Component: Designator=J10(1844223)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "1844223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "277-2415-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltServer PN"; Value = "CON-00009"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found rlp2-400-800
+Add Component: Footprint Not Found rlp2-400-800
+Add Component: Footprint Not Found rlp2-400-800
+Add Component: Footprint Not Found rlp2-400-800
+Add Component: Footprint Not Found rlp2-400-800
+Add Component: Footprint Not Found rlp2-400-800
+Add Component: Footprint Not Found rlp2-400-800
+Add Component: Footprint Not Found rlp2-400-800
+Added Component: Designator=R1(0805 Footprint)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electionic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ERJ-P06J151V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150 Ohm 5%, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "P150ADTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0805 Footprint)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electionic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ERJ-P06J151V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150 Ohm 5%, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "P150ADTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0805 Footprint)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electionic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ERJ-P06J151V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150 Ohm 5%, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "P150ADTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0805 Footprint)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electionic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ERJ-P06J151V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150 Ohm 5%, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "P150ADTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0805 Footprint)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electionic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ERJ-P06J151V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150 Ohm 5%, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "P150ADTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0805 Footprint)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electionic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ERJ-P06J151V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150 Ohm 5%, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "P150ADTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0805 Footprint)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electionic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ERJ-P06J151V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150 Ohm 5%, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "P150ADTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0805 Footprint)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electionic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ERJ-P06J151V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150 Ohm 5%, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "P150ADTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0805 Footprint)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electionic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ERJ-P06J151V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "150 Ohm 5%, 1/2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "P150ADTR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R10(0805 Footprint)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electionic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "ERJ-6GEYJ111V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "110 Ohm 5%, 1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "P110ATR-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOT23-3)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "TPS7A0522PDBZR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LINEAR 2.2V 200MA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "296-TPS7A0522PDBZRTR-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=J10-1
+Added Pin To Net: NetName=5V Pin=R1-1
+Added Pin To Net: NetName=5V Pin=R2-1
+Added Pin To Net: NetName=5V Pin=R3-1
+Added Pin To Net: NetName=5V Pin=R4-1
+Added Pin To Net: NetName=5V Pin=R5-1
+Added Pin To Net: NetName=5V Pin=R6-1
+Added Pin To Net: NetName=5V Pin=R7-1
+Added Pin To Net: NetName=5V Pin=R8-1
+Added Pin To Net: NetName=5V Pin=R9-1
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=GND Pin=D7-2
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Pin To Net: NetName=GND Pin=D9-2
+Added Pin To Net: NetName=GND Pin=J10-3
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R2-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R3-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R4-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R5-2
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=R6-2
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=R7-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=R8-2
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=R9-2
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetJ9_7 Pin=R10-2
+Added Net: Name=NetJ9_7
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U1-2
+Added Net: Name=NetR10_1
+Added Class: Name=dtb219-schematic
+Added Room: Name=dtb219-schematic

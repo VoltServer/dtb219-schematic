@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=J11 NewDesignator=J12
+Added Component: Designator=J11(1844223)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "1844223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "277-2415-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltServer PN"; Value = "CON-00009"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J11-1
+Added Pin To Net: NetName=GND Pin=J11-3
+Change Net Name : Old Net Name=NetJ11_1 New Net Name=NetJ12_1
+Added Member To Class: ClassName=dtb219-schematic Member=Component J12 PRPC002SAAN-RC

@@ -1,0 +1,7 @@
+Added Component: Designator=LP1(LPF-C011302S)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lumex Opto/Components Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "LPF-C011302S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "67-1846-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltServer PN"; Value = "LPG-00002"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=dtb219-schematic Member=Component LP1 LPF-C011302S

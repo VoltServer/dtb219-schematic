@@ -1,0 +1,57 @@
+Added Component: Designator=J9(08B0-1D1T-06-F)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bel Fuse Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "08B0-1D1T-06-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "507-1441-ND"; VariantName = "[No Variations]"
+Added Component: Designator=MP1(RLP2-400-800)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bivar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "RLP2-400-800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "492-1448-ND"; VariantName = "[No Variations]"
+Added Component: Designator=MP2(RLP2-400-800)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bivar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "RLP2-400-800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "492-1448-ND"; VariantName = "[No Variations]"
+Added Component: Designator=MP3(RLP2-400-800)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bivar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "RLP2-400-800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "492-1448-ND"; VariantName = "[No Variations]"
+Added Component: Designator=MP4(RLP2-400-800)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bivar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "RLP2-400-800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "492-1448-ND"; VariantName = "[No Variations]"
+Added Component: Designator=MP5(RLP2-400-800)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bivar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "RLP2-400-800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "492-1448-ND"; VariantName = "[No Variations]"
+Added Component: Designator=MP6(RLP2-400-800)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bivar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "RLP2-400-800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "492-1448-ND"; VariantName = "[No Variations]"
+Added Component: Designator=MP7(RLP2-400-800)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bivar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "RLP2-400-800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "492-1448-ND"; VariantName = "[No Variations]"
+Added Component: Designator=MP8(RLP2-400-800)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bivar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "RLP2-400-800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor PN"; Value = "492-1448-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ9_7 Pin=J9-7
+Added Pin To Net: NetName=GND Pin=J9-8
+Added Member To Class: ClassName=dtb219-schematic Member=Component J9 08B0-1D1T-06-F
+Added Member To Class: ClassName=dtb219-schematic Member=Component MP1 RLP2-400-800
+Added Member To Class: ClassName=dtb219-schematic Member=Component MP2 RLP2-400-800
+Added Member To Class: ClassName=dtb219-schematic Member=Component MP3 RLP2-400-800
+Added Member To Class: ClassName=dtb219-schematic Member=Component MP4 RLP2-400-800
+Added Member To Class: ClassName=dtb219-schematic Member=Component MP5 RLP2-400-800
+Added Member To Class: ClassName=dtb219-schematic Member=Component MP6 RLP2-400-800
+Added Member To Class: ClassName=dtb219-schematic Member=Component MP7 RLP2-400-800
+Added Member To Class: ClassName=dtb219-schematic Member=Component MP8 RLP2-400-800
+Added Room: Name=dtb219-schematic
